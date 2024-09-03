@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35116.124
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisionPro Coding Test", "VisionPro Coding Test\VisionPro Coding Test.csproj", "{5578DBDF-D690-4948-A1CF-E72E5CABF208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vision_DLL", "..\Vision_Mark_Search\Vision_DLL\Vision_DLL.csproj", "{480E74DF-FDF2-4465-BBA8-27F19555956A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5578DBDF-D690-4948-A1CF-E72E5CABF208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5578DBDF-D690-4948-A1CF-E72E5CABF208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5578DBDF-D690-4948-A1CF-E72E5CABF208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5578DBDF-D690-4948-A1CF-E72E5CABF208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{480E74DF-FDF2-4465-BBA8-27F19555956A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{480E74DF-FDF2-4465-BBA8-27F19555956A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{480E74DF-FDF2-4465-BBA8-27F19555956A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{480E74DF-FDF2-4465-BBA8-27F19555956A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58C57F4C-CCF2-4891-A1F6-835ED1F89BE5}
+	EndGlobalSection
+EndGlobal
