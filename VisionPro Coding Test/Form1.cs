@@ -153,6 +153,8 @@ namespace VisionPro_Coding_Test
 
         public void Blob_Setting_Change()
         {
+            // 커밋 테스트
+
             ICogImage Display_image = cogDisplay_Main_1.Image;
 
             string Value_Threshold = NumericUpDown_ThresholdValue.Value + "";
